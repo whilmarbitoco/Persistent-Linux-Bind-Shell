@@ -13,7 +13,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/persistent-linux-reverse-shell.git
+   git clone https://github.com/whilmarbitoco/persistent-linux-reverse-shell.git
    cd persistent-linux-reverse-shell
    ```
 
